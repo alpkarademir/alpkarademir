@@ -1,4 +1,5 @@
-<h3 align='center'><samp><strong>Alp Furkan Karademir</strong></samp></h3> 
+<h3 align='center'><samp><strong>Alp Karademir - @alpkarademir</strong></samp> &nbsp;&nbsp;<img width="30" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47606xz337xsmht436z15o6q5lfdqfmid86fp0j5qc&rid=giphy.gif">
+</h3> 
 <p align='center'> <samp>Computer Scientist | Junior Full Stack Web & Mobile Developer</samp></p>
 <br><br>
 <p align='center'>
