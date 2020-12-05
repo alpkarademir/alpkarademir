@@ -1,6 +1,6 @@
 <h3 align='center'><samp><strong>Alp Karademir - @alpkarademir</strong></samp> &nbsp;&nbsp;<img width="30" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47606xz337xsmht436z15o6q5lfdqfmid86fp0j5qc&rid=giphy.gif">
 </h3> 
-<p align='center'> <samp>Junior Full Stack Web & Mobile Developer</samp></p>
+<p align='center'> <samp>Full Stack Developer</samp></p>
 <br><br>
 <p align='center'>
 <a href="https://linkedin.com/in/alpkarademir/"><img height="26" src="https://raw.githubusercontent.com/alpkarademir/alpkarademir/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
